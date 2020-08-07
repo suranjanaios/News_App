@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-condeNastTest-condeNastTestUITests/Pods-condeNastTest-condeNastTestUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework

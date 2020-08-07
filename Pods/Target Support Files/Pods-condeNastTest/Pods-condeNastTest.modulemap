@@ -1,0 +1,6 @@
+framework module Pods_condeNastTest {
+  umbrella header "Pods-condeNastTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
